@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61e051a6-3b75-419d-90b0-35fd099bd0eb" name="Changes" comment="Getting Started with JUnit 5 and Java" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1728125932" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2myA3QBV6l46mPpAgKn4vLG65l2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in automated-tests-with-java.executor": "Run",
+    "JUnit.SimpleMathTest.executor": "Run",
+    "JUnit.SimpleMathTest.testSum_When_SixDotTwoIsAddedByTwo_ShouldReturnEightDotTwo.executor": "Run",
+    "JUnit.br.com.gustavo.math in automated-tests-with-java.executor": "Run",
+    "JUnit.math in automated-tests-with-java.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/EstudosProg/erudio/automated-tests-with-java/java-tests-with-junit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.gustavo.math" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.math in automated-tests-with-java">
+    <configuration name="All in automated-tests-with-java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automated-tests-with-java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMathTestS3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automated-tests-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.gustavo.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.gustavo.math" />
+      <option name="MAIN_CLASS_NAME" value="br.com.gustavo.math.SimpleMathTestS3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMathTestS3.testSum_When_SixDotTwoIsAddedByTwo_ShouldReturnEightDotTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automated-tests-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.gustavo.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.gustavo.math" />
+      <option name="MAIN_CLASS_NAME" value="br.com.gustavo.math.SimpleMathTestS3" />
+      <option name="METHOD_NAME" value="testSum_When_SixDotTwoIsAddedByTwo_ShouldReturnEightDotTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.gustavo.math in automated-tests-with-java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automated-tests-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.gustavo.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.gustavo.math" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="math in automated-tests-with-java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automated-tests-with-java" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/br/com/gustavo/math" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.math in automated-tests-with-java" />
+        <item itemvalue="JUnit.br.com.gustavo.math in automated-tests-with-java" />
+        <item itemvalue="JUnit.SimpleMathTestS3.testSum_When_SixDotTwoIsAddedByTwo_ShouldReturnEightDotTwo" />
+        <item itemvalue="JUnit.All in automated-tests-with-java" />
+        <item itemvalue="JUnit.SimpleMathTestS3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e051a6-3b75-419d-90b0-35fd099bd0eb" name="Changes" comment="" />
+      <created>1728038244915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728038244915</updated>
+      <workItem from="1728038245881" duration="2415000" />
+      <workItem from="1728065619936" duration="634000" />
+      <workItem from="1728123965571" duration="2006000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primeiros Passos com JUnit 5 e Java">
+      <option name="closed" value="true" />
+      <created>1728066079434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728066079434</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Getting Started with JUnit 5 and Java">
+      <option name="closed" value="true" />
+      <created>1728124647846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728124647846</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiros Passos com JUnit 5 e Java" />
+    <MESSAGE value="Getting Started with JUnit 5 and Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting Started with JUnit 5 and Java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/gustavo/math/SimpleMathTestS3.java</url>
+          <line>36</line>
+          <properties class="br.com.gustavo.math.SimpleMathTestS3" method="testSum_When_SixDotTwoIsAddedByTwo_ShouldReturnEightDotTwo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

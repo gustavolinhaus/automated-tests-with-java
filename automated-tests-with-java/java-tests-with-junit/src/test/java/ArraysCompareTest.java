@@ -6,6 +6,9 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
+/**
+ * A anotação {@code @Timeout} no JUnit 5 é usada para definir um limite de tempo máximo para a execução de um método de teste. Se o teste demorar mais do que o tempo especificado, ele será interrompido e falhará com uma exceção de timeout.
+ */
 class ArraysCompareTest {
 
     @Test

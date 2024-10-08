@@ -5,8 +5,11 @@ import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+/**
+ * Com <b>Lazy Assert Messages</b>, a mensagem de erro só é construída se a asserção falhar, evitando assim o custo de construção da mensagem quando a asserção passa. Isso é particularmente útil em testes que são executados repetidamente ou em código onde o tempo de execução é crítico.
+ */
 @DisplayName("Test Math Operations in SimpleMath Class")
-class SimpleMathTest {
+class SimpleMathTest3 {
 
     SimpleMath math;
 
